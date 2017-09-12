@@ -1,4 +1,5 @@
 # git-training
 training
 
-hola
+hola.
+Como estas?
