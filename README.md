@@ -4,4 +4,4 @@ training
 hola.
 Como estas?
 
-ex2, 1
+ex2, 1 2
